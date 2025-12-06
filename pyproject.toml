@@ -1,0 +1,9 @@
+[project]
+dependencies = [
+    "pydantic>=2.0.0",
+    "pydantic-settings>=2.0.0",
+    "requests",
+    "numpy",
+    "scikit-learn",
+    # ...other deps...
+]
